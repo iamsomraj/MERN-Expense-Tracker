@@ -10,7 +10,7 @@ import { GlobalProvider } from './context/GlobalState';
 function App() {
   return (
     <GlobalProvider>
-      <div style={{ padding: '2rem' }}>
+      <div style={{ margin: '2rem' }}>
         <Header />
         <div className="container">
           <Balance />
