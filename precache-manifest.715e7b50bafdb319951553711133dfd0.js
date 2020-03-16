@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3345d6775b985912980893c184a52f61",
+    "revision": "ff51fa29f76e7bf5da05c7a56850d020",
     "url": "/MERN-Expense-Tracker/index.html"
   },
   {
-    "revision": "137053652957c0bb99b7",
+    "revision": "cf7a59871094dff47552",
     "url": "/MERN-Expense-Tracker/static/css/main.2f7121da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MERN-Expense-Tracker/static/js/2.bf88a971.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "137053652957c0bb99b7",
-    "url": "/MERN-Expense-Tracker/static/js/main.0e5041f7.chunk.js"
+    "revision": "cf7a59871094dff47552",
+    "url": "/MERN-Expense-Tracker/static/js/main.50293820.chunk.js"
   },
   {
     "revision": "6378bded2f0e35f4959c",

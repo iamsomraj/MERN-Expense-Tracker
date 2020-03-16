@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MERN-Expense-Tracker/static/css/main.2f7121da.chunk.css",
-    "main.js": "/MERN-Expense-Tracker/static/js/main.0e5041f7.chunk.js",
-    "main.js.map": "/MERN-Expense-Tracker/static/js/main.0e5041f7.chunk.js.map",
+    "main.js": "/MERN-Expense-Tracker/static/js/main.50293820.chunk.js",
+    "main.js.map": "/MERN-Expense-Tracker/static/js/main.50293820.chunk.js.map",
     "runtime-main.js": "/MERN-Expense-Tracker/static/js/runtime-main.c5aad7e8.js",
     "runtime-main.js.map": "/MERN-Expense-Tracker/static/js/runtime-main.c5aad7e8.js.map",
     "static/js/2.bf88a971.chunk.js": "/MERN-Expense-Tracker/static/js/2.bf88a971.chunk.js",
     "static/js/2.bf88a971.chunk.js.map": "/MERN-Expense-Tracker/static/js/2.bf88a971.chunk.js.map",
     "index.html": "/MERN-Expense-Tracker/index.html",
-    "precache-manifest.01b2f4d258fe83ece0d0ae4a8fd8994d.js": "/MERN-Expense-Tracker/precache-manifest.01b2f4d258fe83ece0d0ae4a8fd8994d.js",
+    "precache-manifest.715e7b50bafdb319951553711133dfd0.js": "/MERN-Expense-Tracker/precache-manifest.715e7b50bafdb319951553711133dfd0.js",
     "service-worker.js": "/MERN-Expense-Tracker/service-worker.js",
     "static/css/main.2f7121da.chunk.css.map": "/MERN-Expense-Tracker/static/css/main.2f7121da.chunk.css.map",
     "static/js/2.bf88a971.chunk.js.LICENSE.txt": "/MERN-Expense-Tracker/static/js/2.bf88a971.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c5aad7e8.js",
     "static/js/2.bf88a971.chunk.js",
     "static/css/main.2f7121da.chunk.css",
-    "static/js/main.0e5041f7.chunk.js"
+    "static/js/main.50293820.chunk.js"
   ]
 }
