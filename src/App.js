@@ -9,13 +9,15 @@ import { GlobalProvider } from './context/GlobalState';
 
 function App() {
   return (
-    <GlobalProvider style={{padding: '1.5rem'}}>
-      <Header />
-      <div className="container">
-        <Balance />
-        <IncomeExpense />
-        <TransactionList />
-        <AddTransaction />
+    <GlobalProvider>
+      <div style={{ padding: '2rem' }}>
+        <Header />
+        <div className="container">
+          <Balance />
+          <IncomeExpense />
+          <TransactionList />
+          <AddTransaction />
+        </div>
       </div>
     </GlobalProvider>
   );
