@@ -16,7 +16,7 @@ export const GlobalContext = createContext(initialState);
 export const GlobalProvider = ({ children }) => {
   const [state, dispatch] = useReducer(AppReducer, initialState);
 
-  const url = 'http://localhost:5000/transactions/';
+  const url = '/transactions/';
 
   // Actions
 
