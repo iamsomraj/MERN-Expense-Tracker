@@ -48,8 +48,6 @@ const AddTransaction = () => {
             } else {
               alert('Check the input fields');
             }
-            text = '';
-            amount = '';
           }}
         >
           Add transaction
