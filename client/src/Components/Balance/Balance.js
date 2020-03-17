@@ -1,5 +1,6 @@
 import React, { useContext } from 'react';
 import { GlobalContext } from '../../context/GlobalState';
+import { numberWithCommas } from '../../utils/format';
 
 const Balance = () => {
   const { transactions } = useContext(GlobalContext);
@@ -14,7 +15,7 @@ const Balance = () => {
         className={balance < 1 ? 'minus' : 'plus'}
         style={{ margin: '1rem 0' }}
       >
-        $ {balance}
+        $ {numberWithCommas(balance)}
       </h1>
     </div>
   );
