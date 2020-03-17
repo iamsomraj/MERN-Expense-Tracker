@@ -11,7 +11,7 @@ const TransactionList = () => {
   }, []);
 
   return (
-    <div>
+    <div style={{ padding: '2rem' }}>
       <h3>History</h3>
       <ul id="list" className="list">
         {transactions.map(transaction => {
